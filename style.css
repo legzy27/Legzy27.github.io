@@ -44,7 +44,7 @@ header.startup h1 {
 
 .btn-xl {
   padding: 1rem 2rem; 
-  text-align: center;
+  text-align: left;
 }
 
 .btn-primary {
@@ -56,14 +56,12 @@ header.startup h1 {
   border-color: #ee4b08;
   border-width: 5px;
   cursor: pointer;
+  text-align: center;
 }
 
 
-.button {
-
-  text-align: center;
-  padding: 15px 32px;
-
-
+#mc-embedded-subscribe {
+    text-align: center;
+  
 }
   
